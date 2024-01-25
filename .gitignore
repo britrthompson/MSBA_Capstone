@@ -1,6 +1,5 @@
-*.db
-*.zip
-uploaded/*
+*.xlsx
+
 
 
 # Byte-compiled / optimized / DLL files
