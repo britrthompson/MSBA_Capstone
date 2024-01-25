@@ -1,0 +1,123 @@
+2024-Jan-24
+Progress: What you have accomplished since last week’s post?
+Created a GitHub repo. Read in data into Jupyter notebook and started cleaning data and categorizing grade outcomes.
+
+Problems: What are you stuck on or struggling with?
+The Ed Ready score appears to be missing from the data. I e-mail the individuals that have this information.
+Inquired about where the data exists. Banner or Ed Ready? If not in Banner can this be cross walked with current data?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Hopefully get the Ed Ready score data and start working on additional data clean up and the analysis. 
+
+How many hours did you spend working on your Capstone since last week’s post?
+3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
+
+2024-Jan-31
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Feb-07
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Feb-14
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Feb-21
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Feb-28
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Mar-06
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Mar-13
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Mar-20
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Mar-27 
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Apr-03
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Apr-10
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-Apr-17
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-May-01
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+
+
+
+
+
