@@ -1,9 +1,23 @@
+2024-Jan-31
+Progress: What you have accomplished since last week’s post?
+I was able to get the Ed Ready Scores and add them to the math_placement information. I've started to complete a classification tree analysis, random forest, as well as a logistical regression.
+I also start the intro to the paper component of this course.
+
+Problems: What are you stuck on or struggling with?
+I'm struggling with understanding how to predict course placement based on high school GPA and Ed Ready scores, using grade outcomes as a measure of success.
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Figure out what the most accurate statistical model is for this situation.
+
+How many hours did you spend working on your Capstone since last week’s post?
+5 hours
+
 2024-Jan-24
 Progress: What you have accomplished since last week’s post?
 Created a GitHub repo. Read in data into Jupyter notebook and started cleaning data and categorizing grade outcomes.
 
 Problems: What are you stuck on or struggling with?
-The Ed Ready score appears to be missing from the data. I e-mail the individuals that have this information.
+The Ed Ready score appears to be missing from the data. I e-mailed the individuals that have this information.
 Inquired about where the data exists. Banner or Ed Ready? If not in Banner can this be cross walked with current data?
 
 Plans: What do you intend to accomplish between now and next week’s post?
@@ -12,14 +26,6 @@ Hopefully get the Ed Ready score data and start working on additional data clean
 How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
-2024-Jan-31
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-Feb-07
 Progress: What you have accomplished since last week’s post?
 
