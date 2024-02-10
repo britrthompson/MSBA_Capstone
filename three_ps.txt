@@ -1,4 +1,18 @@
-2024-Jan-31
+2024-Feb-14
+Progress: What you have accomplished since last week’s post?
+Requested feedback for the correct model to use high school GPA and Ed Ready Scores to place students into a course then use historical grades
+to test accuracy. Reached out to John Chandler for added feedback and am awaiting a reply. Wrote 2 pages of draft paper.
+
+Problems: What are you stuck on or struggling with?
+Finding the correct model to use.
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Find the correct model and implement.
+
+How many hours did you spend working on your Capstone since last week’s post?
+3 hours
+
+2024-Feb-07
 Progress: What you have accomplished since last week’s post?
 I was able to get the Ed Ready Scores and add them to the math_placement information. I've completed a classification tree analysis, random forest, XG Boost, as well as a logistical regression.
 I also start the intro to the paper component of this course.
@@ -12,7 +26,7 @@ Figure out what the most accurate statistical model is for this situation.
 How many hours did you spend working on your Capstone since last week’s post?
 6 hours
 
-2024-Jan-24
+2024-Jan-31
 Progress: What you have accomplished since last week’s post?
 Created a GitHub repo. Read in data into Jupyter notebook and started cleaning data and categorizing grade outcomes.
 
@@ -26,22 +40,6 @@ Hopefully get the Ed Ready score data and start working on additional data clean
 How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
-2024-Feb-07
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
-2024-Feb-14
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-Feb-21
 Progress: What you have accomplished since last week’s post?
 
@@ -115,6 +113,14 @@ Plans: What do you intend to accomplish between now and next week’s post?
 
 How many hours did you spend working on your Capstone since last week’s post?
 2024-May-01
+Progress: What you have accomplished since last week’s post?
+
+Problems: What are you stuck on or struggling with?
+
+Plans: What do you intend to accomplish between now and next week’s post?
+
+How many hours did you spend working on your Capstone since last week’s post?
+2024-May-08
 Progress: What you have accomplished since last week’s post?
 
 Problems: What are you stuck on or struggling with?
