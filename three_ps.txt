@@ -10,7 +10,7 @@ Plans: What do you intend to accomplish between now and next week’s post?
 Find the correct model and implement.
 
 How many hours did you spend working on your Capstone since last week’s post?
-4 hours
+4 hours.
 
 2024-Feb-07
 Progress: What you have accomplished since last week’s post?
