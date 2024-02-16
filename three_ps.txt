@@ -1,7 +1,24 @@
+
+2024-Feb-21
+Progress: What you have accomplished since last week’s post?
+Updated python code to include a for loop to run the best model for each course. Sent an e-mail to the math department requesting additional 
+information on the current models and exploring potentially adding additional models using ACT and SAT as predictors.
+
+Problems: What are you stuck on or struggling with?
+If I should update the code to incorporate multiple models or stick with a model that only looks at high school GPA and Ed Ready scores.
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Determine if additional models should be built and start incorporating them into the code. Will also, need to get updated data from OPA that
+includes SAT and ACT information.
+
+How many hours did you spend working on your Capstone since last week’s post?
+3 hours
+
 2024-Feb-14
 Progress: What you have accomplished since last week’s post?
 Requested feedback for the correct model to use high school GPA and Ed Ready Scores to place students into a course then use historical grades
-to test accuracy. Reached out to John Chandler for added feedback and am awaiting a reply. Wrote 2 more pages of draft paper.
+to test accuracy. Reached out to John Chandler for added feedback and am awaiting a reply. Wrote 2 more pages of draft paper. Met with the 
+admission office to understand how the math placements are communicated out to the students.
 
 Problems: What are you stuck on or struggling with?
 Finding the correct model to use.
@@ -10,7 +27,7 @@ Plans: What do you intend to accomplish between now and next week’s post?
 Find the correct model and implement.
 
 How many hours did you spend working on your Capstone since last week’s post?
-4 hours.
+5 hours.
 
 2024-Feb-07
 Progress: What you have accomplished since last week’s post?
@@ -40,14 +57,6 @@ Hopefully get the Ed Ready score data and start working on additional data clean
 How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
-2024-Feb-21
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-Feb-28
 Progress: What you have accomplished since last week’s post?
 
