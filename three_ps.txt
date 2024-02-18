@@ -1,18 +1,20 @@
 
 2024-Feb-21
 Progress: What you have accomplished since last week’s post?
-Updated python code to include a for loop to run the best model for each course. Sent an e-mail to the math department requesting additional 
+Updated python code to include a for loop to run the best model for each course and added in additional code that predicts individual
+student success and places the student based on their highest level of course with success. Sent an e-mail to the math department requesting additional 
 information on the current models and exploring potentially adding additional models using ACT and SAT as predictors.
 
 Problems: What are you stuck on or struggling with?
+How to get the course predictor to work correctly. Course assignment seems to be off.
 If I should update the code to incorporate multiple models or stick with a model that only looks at high school GPA and Ed Ready scores.
 
 Plans: What do you intend to accomplish between now and next week’s post?
 Determine if additional models should be built and start incorporating them into the code. Will also, need to get updated data from OPA that
-includes SAT and ACT information.
+includes SAT and ACT information. Also, sort out issues with current course prediction code.
 
 How many hours did you spend working on your Capstone since last week’s post?
-3 hours
+6 hours.
 
 2024-Feb-14
 Progress: What you have accomplished since last week’s post?
