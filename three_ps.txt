@@ -2,10 +2,11 @@
 Progress: What you have accomplished since last week’s post?
 Met with the math department to get a better understanding of their current model and see if it would be useful to SAT and ACT as part of the
 model. Updated course and combo code to only include students that aren't taking the required labs in the course category and include them in 
-the combo category. 
+the combo category. Added in course level code, as students are placed into a level and not a specific course. Regression code at the course 
+level was added. Wrote some data explanation on the paper.
 
 Problems: What are you stuck on or struggling with?
-What my finalized product would be. I'm thinking an updated flow chart for the math department.
+What my finalized product would be and how to get the gpa and erm score thresholds. I'm thinking an updated flow chart for the math department.
 
 Plans: What do you intend to accomplish between now and next week’s post?
 The math department has requested an analysis of how accurate their current ACT, SAT, ACT + hs_GPA and SAT + hs_GPA placement is. I don't 
@@ -13,7 +14,7 @@ currently have SAT and ACT data. So, I've e-mail the Office of Planning and Anal
 I plan to continue working on coding and my paper.
 
 How many hours did you spend working on your Capstone since last week’s post?
-3 hours.
+6 hours.
 
 2024-Feb-21
 Progress: What you have accomplished since last week’s post?
