@@ -6,7 +6,8 @@ the combo category. Added in course level code, as students are placed into a le
 level was added. Wrote some data explanation on the paper.
 
 Problems: What are you stuck on or struggling with?
-What my finalized product would be and how to get the gpa and erm score thresholds. I'm thinking an updated flow chart for the math department.
+What my finalized product would be and how to get the gpa and erm score thresholds from the models I'm running - HELP!!!
+ I'm thinking an updated flow chart for the math department as a finalized product.
 
 Plans: What do you intend to accomplish between now and next week’s post?
 The math department has requested an analysis of how accurate their current ACT, SAT, ACT + hs_GPA and SAT + hs_GPA placement is. I don't 
