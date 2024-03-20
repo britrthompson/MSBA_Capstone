@@ -1,4 +1,18 @@
 
+2024-Mar-20
+Progress: What you have accomplished since last week’s post?
+Updated code to look at the current math placement success rate and then built multiple classification models using the current 
+math placement variables. Wrote a few pages of paper.
+
+Problems: What are you stuck on or struggling with?
+If I should add in the levels analysis. Feeling like I don't have time to do that, so I'll likely decide this is my finalized code.
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Complete my paper draft. Determine what I would like my visualization to be.
+
+How many hours did you spend working on your Capstone since last week’s post?
+12 hours.
+
 2024-Mar-13
 Progress: What you have accomplished since last week’s post?
 Updated statistical model code to loop through the identified predictor variables. 
@@ -107,14 +121,6 @@ How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
 
-2024-Mar-20
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-Mar-27 
 Progress: What you have accomplished since last week’s post?
 
