@@ -1,3 +1,17 @@
+
+2024-Apr-10
+Progress: What you have accomplished since last week’s post?
+Updated code to include additional statistical evaluation indicators for each of the models reviewed
+
+Problems: What are you stuck on or struggling with?
+Need to work on visualization since draft submission is a fraction of what I need to put together.
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Start and finish my visualization. Will look into designing a scrollable pdf or a website.
+
+How many hours did you spend working on your Capstone since last week’s post?
+15 hours.
+
 2024-Apr-03
 Progress: What you have accomplished since last week’s post?
 Finished the first draft of my visualization.
@@ -145,22 +159,6 @@ Hopefully get the Ed Ready score data and start working on additional data clean
 How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
-2024-Apr-03
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
-2024-Apr-10
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-Apr-17
 Progress: What you have accomplished since last week’s post?
 
