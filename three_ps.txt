@@ -1,4 +1,30 @@
 
+2024-April-24
+Progress: What you have accomplished since last week’s post?
+Reviewed peer papers and started slide deck for presentation.
+
+Problems: What are you stuck on or struggling with?
+Working on a reasonable indicator of model accuracy to compare machine learning model outcomes to original model. 
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Work on what needs to be done to compare model accuracy and update paper. 
+
+How many hours did you spend working on your Capstone since last week’s post?
+5 hours
+
+2024-Apr-17
+Progress: What you have accomplished since last week’s post?
+Completed first draft of website visualization.
+
+Problems: What are you stuck on or struggling with?
+Working through improvements on the statistical sections of my paper. 
+
+Plans: What do you intend to accomplish between now and next week’s post?
+Peer review of capstone papers and creation of slide deck for presentation.
+
+How many hours did you spend working on your Capstone since last week’s post?
+4 hours
+
 2024-Apr-10
 Progress: What you have accomplished since last week’s post?
 Updated code to include additional statistical evaluation indicators for each of the models reviewed
@@ -159,14 +185,6 @@ Hopefully get the Ed Ready score data and start working on additional data clean
 How many hours did you spend working on your Capstone since last week’s post?
 3 hours + 5 hours over winter break to understand available data and what data was relevant to this analysis.
 
-2024-Apr-17
-Progress: What you have accomplished since last week’s post?
-
-Problems: What are you stuck on or struggling with?
-
-Plans: What do you intend to accomplish between now and next week’s post?
-
-How many hours did you spend working on your Capstone since last week’s post?
 2024-May-01
 Progress: What you have accomplished since last week’s post?
 
