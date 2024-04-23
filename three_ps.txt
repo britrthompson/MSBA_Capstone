@@ -1,16 +1,16 @@
 
 2024-April-24
 Progress: What you have accomplished since last week’s post?
-Reviewed peer papers and started slide deck for presentation.
+Completed slide deck and finalized presentation. Updated code and paper to include an f-score for the flow chart model.
 
 Problems: What are you stuck on or struggling with?
-Working on a reasonable indicator of model accuracy to compare machine learning model outcomes to original model. 
+That my f-score calculation of the current model is appropriate.
 
 Plans: What do you intend to accomplish between now and next week’s post?
-Work on what needs to be done to compare model accuracy and update paper. 
+Finalize paper, visualization and code.
 
 How many hours did you spend working on your Capstone since last week’s post?
-5 hours
+10 hours
 
 2024-Apr-17
 Progress: What you have accomplished since last week’s post?
