@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As part of my MSBA capstone project, the code in this repository analyzes math placement at Montana State University. The python code included here, reviews the accuracy of the current placement model and explores multiple machine learning models, using ACT/SAT, reported high school GPA and Ed Ready scores to assist in predicting math placement for incoming freshmen.
+As part of my MSBA capstone project, the code in this repository analyzes math placement at Montana State University. The python code included, reviews the accuracy of the current placement model and explores multiple machine learning models, using ACT/SAT, reported high school GPA and Ed Ready scores to assist in predicting math placement for incoming freshmen.
 
 ## Code Blocks Explained
 
